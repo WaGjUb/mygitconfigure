@@ -1,0 +1,2 @@
+# mygitconfigure
+configuração do github
